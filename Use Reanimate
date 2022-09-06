@@ -1,0 +1,2 @@
+if not getgenv()._reanimate then getgenv()._reanimate = loadstring(game:HttpGet('https://raw.githubusercontent.com/Reccys/felix-stuff/main/Reanimate'))() end
+return getgenv()._reanimate()
